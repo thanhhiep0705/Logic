@@ -1,0 +1,19 @@
+8
+-A OR C OR D OR -E
+-A OR D OR -E
+B OR D OR -E
+C
+-B
+A OR C
+A OR -B
+-E
+8
+B OR C OR D OR -E
+C OR D OR -E
+-B OR C OR D OR -E
+A OR C OR D OR -E
+D OR -E
+{}
+-B OR D OR -E
+A OR D OR -E
+YES
